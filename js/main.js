@@ -590,13 +590,13 @@ function sendYN(){
   
   
     var firebaseConfig = {
-      apiKey: "AIzaSyD-4Wczs9ImkNrSvfshPtcqo4GsMSXUUe8",
-      authDomain: "groupa-80412.firebaseapp.com",
-      projectId: "groupa-80412",
-      storageBucket: "groupa-80412.appspot.com",
-      messagingSenderId: "629987441498",
-      appId: "1:629987441498:web:5669f467fa3ccec93f1163",
-      measurementId: "G-0BEV7H7KQ2"
+            apiKey: "AIzaSyDGYxKp5jYYN25IWWexRI4H7lrcjgJ7rKw",
+            authDomain: "groupb-8cc7c.firebaseapp.com",
+            projectId: "groupb-8cc7c",
+            storageBucket: "groupb-8cc7c.appspot.com",
+            messagingSenderId: "148996579075",
+            appId: "1:148996579075:web:f34e8000366b9c102d5336",
+            measurementId: "G-KJEQ8D0T53"
     };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
